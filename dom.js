@@ -8,4 +8,5 @@ Array.from(titles).forEach(function(item){
 })  */
 /* console.log(Array.isArray(titles));
 console.log(Array.isArray(Array.from(titles))); */
-
+ const wmf = document.querySelector('#book-list li:nth-child(2).name');
+ console.log(wmf);
